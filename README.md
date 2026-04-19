@@ -16,7 +16,6 @@ UFCT is a lightweight yet powerful utility designed to verify files across diffe
 
 ##  💻 Usage
 Run the tool from your terminal or command prompt using the following syntax:  
-[!NOTE]  
-The tool automatically detects the desired format based on the output file extension (.xlsx or .ods) you provide.  
+[!NOTE]  The tool automatically detects the desired format based on the output file extension (.xlsx or .ods) you provide.  
 
     python "UFCT [Universal File Comparasion Tool].py" <source_directory_1> <source_directory_2> <report_name.extension>
