@@ -1,8 +1,8 @@
 # 📂 UFCT (Universal File Comparison Tool)
 
-![GitHub License](https://img.shields.io/github/license/OKTAYMERCAN/UFCT-Universal-File-Comparasion-Tool)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Cross%20Platform-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Cross%20Platform-darkred.svg)
 
 UFCT is a lightweight yet powerful utility designed to verify files across different directories and generate comprehensive reports. Whether you need a lightning-fast name check or bit-by-bit integrity verification, UFCT has you covered.
 
