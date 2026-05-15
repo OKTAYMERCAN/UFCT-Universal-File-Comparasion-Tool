@@ -20,5 +20,16 @@ Run the tool from your terminal or command prompt using the following syntax:
 
     python "UFCT [Universal File Comparasion Tool].py" <source_directory_1> <source_directory_2> <report_name.extension>
 
+## 📸 Screenshots  
+
+(Quick Option View)  
+<img width="581" height="834" alt="Screenshot 2026-05-15 181835" src="https://github.com/user-attachments/assets/2f1db656-4d8b-4d51-be29-f9633ca2f118" />  
+
+(Full Option View)  
+<img width="786" height="1175" alt="image" src="https://github.com/user-attachments/assets/310da3b2-82ef-4f4c-8894-6e60515b8dc6" />  
+
+(Report Spreadsheet View)  
+<img width="1932" height="383" alt="Screenshot 2026-05-15 181406" src="https://github.com/user-attachments/assets/40f75c69-7246-48bf-be91-e476c68a5391" />    
+
 ---
 AI used.
